@@ -1,0 +1,15 @@
+C:\Users\caio.corchado\source\repos\exercises\bin\Debug\net6.0\exercises.exe
+C:\Users\caio.corchado\source\repos\exercises\bin\Debug\net6.0\exercises.deps.json
+C:\Users\caio.corchado\source\repos\exercises\bin\Debug\net6.0\exercises.runtimeconfig.json
+C:\Users\caio.corchado\source\repos\exercises\bin\Debug\net6.0\exercises.dll
+C:\Users\caio.corchado\source\repos\exercises\bin\Debug\net6.0\exercises.pdb
+C:\Users\caio.corchado\source\repos\exercises\obj\Debug\net6.0\exercises.csproj.AssemblyReference.cache
+C:\Users\caio.corchado\source\repos\exercises\obj\Debug\net6.0\exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio.corchado\source\repos\exercises\obj\Debug\net6.0\exercises.AssemblyInfoInputs.cache
+C:\Users\caio.corchado\source\repos\exercises\obj\Debug\net6.0\exercises.AssemblyInfo.cs
+C:\Users\caio.corchado\source\repos\exercises\obj\Debug\net6.0\exercises.csproj.CoreCompileInputs.cache
+C:\Users\caio.corchado\source\repos\exercises\obj\Debug\net6.0\exercises.dll
+C:\Users\caio.corchado\source\repos\exercises\obj\Debug\net6.0\refint\exercises.dll
+C:\Users\caio.corchado\source\repos\exercises\obj\Debug\net6.0\exercises.pdb
+C:\Users\caio.corchado\source\repos\exercises\obj\Debug\net6.0\exercises.genruntimeconfig.cache
+C:\Users\caio.corchado\source\repos\exercises\obj\Debug\net6.0\ref\exercises.dll
